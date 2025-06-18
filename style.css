@@ -1,0 +1,79 @@
+body{
+    background-color: aqua;
+}
+
+/* h1{
+    color: brown;   
+    text-align: center;
+    background-color: aquamarine;
+} */
+ #welcome{
+    text-align: center;
+    background-color:rgb(8, 8, 187);
+    color: #ffffff;
+}
+#what_we_do{
+    
+    background-color:rgb(26, 26, 233);
+    color:#ffffff;
+}
+/* p{
+    text-align: center;
+    background-color:rgb(133, 133, 195)
+} */
+ #capturing{
+    text-align: center;
+    background-color:rgb(19, 19, 213);
+    color: #ffffff;
+}   
+a{
+
+    text-align: center;
+    background-color:rgb(215, 117, 20)
+}
+/* h2{
+    text-align: center;
+    background-color:rgb(133, 133, 195)
+} */
+ #navigation{
+   
+    background-color:rgb(20, 20, 216);
+    color:#ffffff;
+}
+
+table{
+    text-align: center;
+    background-color:rgb(133, 133, 195);
+    border: 2px solid black;
+}
+
+ul{
+    
+    background-color:rgb(188, 193, 95)
+}
+
+ol{
+    background-color:rgb(139, 212, 147)
+}
+
+#improve{
+    
+    background-color:rgb(20, 20, 216);
+    color:#ffffff;
+}
+
+#members{
+    
+    background-color:rgb(20, 20, 216);
+    color:#ffffff;
+}
+
+#equipment{
+    background-color:rgb(20, 20, 216);
+    color:#ffffff;
+}
+
+#upcomming_events{
+    background-color:rgb(20, 20, 216);
+    color:#ffffff;
+}
